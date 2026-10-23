@@ -2,6 +2,8 @@
 
 A single-page Power BI sales dashboard covering revenue, profit, quantity, regions, customer segments, and shipping modes.
 
+![Sales Dashboard 2026](assets/dashboard.png)
+
 ## Overview
 
 | Item | Detail |
@@ -14,18 +16,19 @@ A single-page Power BI sales dashboard covering revenue, profit, quantity, regio
 ## What the dashboard shows
 
 - **Three KPI cards** - total sales, profit, and quantity.
-- **Profit by region** - which regions contribute the most profit.
-- **Sales by month** - monthly revenue trend with a full date hierarchy.
-- **Quantity by region** - where volume is concentrated.
-- **Category share** - a donut chart showing each category's percentage of the total.
-- **Contribution** - a waterfall chart breaking the total into its components.
-- **Composition** - a treemap for a second view of the category hierarchy.
+- **Sales by customer segment** - revenue split across Corporate, Home Office, Consumer, and Small Business.
+- **Sales by ship mode** - share of revenue by shipping method.
+- **Profit by region** - waterfall view of regional profit contributions.
+- **Sales by month** - monthly revenue trend across the first half of the year.
+- **Quantity by region** - treemap of unit volume concentration.
 
 ## Repository contents
 
 ```text
 sales-dashboard-2026/
 |-- Sales_Dashboard_2026.pbix
+|-- assets/
+|   `-- dashboard.png
 `-- README.md
 ```
 
