@@ -37,7 +37,7 @@ sales-dashboard-2026/
 
 ## Data notes
 
-- The report is self-contained; its sample data is embedded in the PBIX.
+- The report is self-contained; its illustrative data is embedded in the PBIX.
 - Figures are illustrative and are not tied to a real company.
 
 ## Author
